@@ -1,3 +1,5 @@
 failed_requests_log.txt
 .env
 venv/
+# Ignore all .txt files
+*.txt
