@@ -1,5 +1,12 @@
 # Requests, JSON, and basic NLP with spaCy
 
+### Introduction
+
+This project explores how to use web APIs, JSON data, and natural language processing (NLP) tools to analyze the sentiment of song lyrics. By retrieving song lyrics from the Genius API and applying sentiment analysis with spaCy and VADER, we can determine the emotional tone of various songs. The goal is to demonstrate practical skills in API usage, file handling, and text analysis using Python.
+
+### Note  
+*This README is part of the assignment for Web Mining and Applied NLP (44-620). All tasks were completed in the Jupyter notebook and committed to this repository for grading.*
+
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
